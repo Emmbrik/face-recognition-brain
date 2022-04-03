@@ -1,5 +1,9 @@
 body {
   margin: 0;
+  padding: 0;
+
+  /* Created with https://www.css-gradient.com */
+  background: -webkit-linear-gradient(top left, rgba(53, 77, 121, 1), rgba(35, 155, 113, 1));
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
@@ -7,7 +11,3 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
