@@ -1,3 +1,4 @@
+
 .form{
     width:700px ;
     background-color: #FF7D9D;
@@ -18,4 +19,5 @@
 
 button{
     background: #2980b9;
+    border-style: none;
 }
